@@ -387,7 +387,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #02022B;
 }
 
 #hero .container {
@@ -883,6 +883,20 @@ section {
   color: #47b2e4;
 }
 
+
+/*--------------------------------------------------------------
+# Workflow
+--------------------------------------------------------------*/
+.logo-workflow {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 2px solid white; /* You can change the border color as needed */
+  overflow: hidden;
+}
+.section-dark {
+  background: #02022B;
+}
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
@@ -1637,7 +1651,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #000;
 }
 
 #footer .footer-newsletter {
@@ -1695,7 +1709,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
+  background: #000000;
 }
 
 #footer .footer-top .footer-contact {
